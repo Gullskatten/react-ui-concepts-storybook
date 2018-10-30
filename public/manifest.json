@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Concept UI",
+  "name": "A showcase application to test out different UI designs.",
   "icons": [
     {
       "src": "favicon.ico",
